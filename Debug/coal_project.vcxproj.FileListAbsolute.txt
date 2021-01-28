@@ -1,0 +1,2 @@
+C:\Users\92341\source\repos\coal_project\Debug\coal_project.exe
+C:\Users\92341\source\repos\coal_project\Debug\coal_project.pdb
